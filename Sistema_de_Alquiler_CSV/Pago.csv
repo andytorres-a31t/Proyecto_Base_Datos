@@ -1,0 +1,6 @@
+id_pago,metodo_pago,Monto,fecha_de_pago,id_alquiler
+PAG-001,efectivo,202.75,2025-01-15,ALQ-001
+PAG-002,transferencia,302.50,2025-02-05,ALQ-002
+PAG-003,efectivo,168.00,2025-02-25,ALQ-003
+PAG-004,transferencia,105.00,2025-03-01,ALQ-004
+PAG-005,efectivo,192.50,2025-03-10,ALQ-005

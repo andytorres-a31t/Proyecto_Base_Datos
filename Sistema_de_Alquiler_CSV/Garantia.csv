@@ -1,0 +1,6 @@
+id_garantia,tipo_documento,Estado,Monto,id_alquiler
+GAR-001,"Cédula de identidad",liberada,50.00,ALQ-001
+GAR-002,Pasaporte,activa,50.00,ALQ-002
+GAR-003,"Licencia de conducir",liberada,50.00,ALQ-003
+GAR-004,"Cédula de identidad",ejecutada,50.00,ALQ-004
+GAR-005,Pasaporte,activa,50.00,ALQ-005

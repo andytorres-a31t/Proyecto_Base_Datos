@@ -1,0 +1,5 @@
+id_multa,tipo_multa,Descripcion,Monto,Estado,id_alquiler
+MUL-001,"Devolución tardía","Vehículo devuelto 1 día después",42.00,pagada,ALQ-003
+MUL-002,"Daño en vehículo","Rayón en puerta delantera",40.00,pendiente,ALQ-004
+MUL-003,Combustible,"Tanque entregado vacío",12.00,pagada,ALQ-001
+MUL-004,"Devolución tardía","Vehículo devuelto 2 días después",77.00,pendiente,ALQ-005
